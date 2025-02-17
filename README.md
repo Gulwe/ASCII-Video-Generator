@@ -75,7 +75,7 @@ ASCII Video Generator is a Python application that converts a video/animation fi
 ## Roadmap / Further development
 
 - **Improved optimisation:** Improved video processing performance and memory management.
-- GIF saving capability:** Extension of functionality to include export to GIF format.
+- **GIF saving capability:** Extension of functionality to include export to GIF format.
 
 ## Contributing
 
@@ -86,5 +86,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 This project is licensed under the MIT License.
 
 ---
-
-ASCII Video Generator is a fun and creative tool that demonstrates the power of combining computer vision, image processing, and GUI development in Python. Enjoy converting your videos into stunning ASCII art!
