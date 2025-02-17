@@ -80,9 +80,3 @@ ASCII Video Generator is a Python application that converts a video/animation fi
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements and new features.
-
-## License
-
-This project is licensed under the MIT License.
-
----
