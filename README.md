@@ -1,3 +1,4 @@
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/Gulwe/ASCII-Video-Generator/blob/main/README.pl.md)
 # ASCII Video Generator
 
 ASCII Video Generator is a Python application that converts a video/animation file into an ASCII art video. The application uses OpenCV for video frame extraction, processes each frame to generate ASCII art, and combines these frames into a new video using MoviePy. The graphical user interface (GUI) is built with Tkinter, allowing users to adjust various settings and preview the conversion in real-time.
